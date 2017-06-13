@@ -24,7 +24,7 @@ public class OkulDAO extends DAO {
 				int id = resultSet.getInt("id");
 				String name = resultSet.getString("name");
 				Ogrenci ogrenci = new Ogrenci(id, name);
-				ogrenciList.add(ogrenci);
+				ogrenciList.add(ogrenci)	;			
 			}
 
 		} catch (SQLException e) {
