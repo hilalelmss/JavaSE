@@ -10,8 +10,7 @@ public class CarpimTablosu {
 			System.out.print(k + "\t");
 		}
 		System.out.println();
-		System.out
-				.println("    " + "_________________________________________________________________________________");
+		System.out.println("    " + "_________________________________________________________________________________");
 		System.out.println();
 
 		/* çarpma iþlemleri tablo */
