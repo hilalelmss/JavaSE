@@ -6,7 +6,7 @@ Protected:Extends edenlere türetenlere ve aynı pakette olanlara açık olan de
 
 Default:Hiçbirşey yazlmazsa aynı pakettekilerin erişebildiği değişkenlerdir.
 
-Statik: public static int ogrenciSayisi = 0; böyle bir tanımlama şekli vardır.
+Static: public static int ogrenciSayisi = 0; böyle bir tanımlama şekli vardır.
         Eğer değişken nesne değişkeni değilde sınıf değişkeni olsun istiyorsak statik anahtar kelimesini kullanmalıyız.
         
 Final:Final olan bir değişkene sadece bir kere değer ataması yapılabilir.Final olan bir metot ne alt sınıflarca yeniden
